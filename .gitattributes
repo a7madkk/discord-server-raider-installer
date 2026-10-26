@@ -1,0 +1,14 @@
+# Generated on 2026-11-05
+**/*.go linguist-detectable
+
+dist/* linguist-vendored   
+package-lock.json linguist-generated
+*.json linguist-detectable=false
+*.min.js linguist-generated
+vendor/* linguist-vendored
+public/*.html linguist-vendored
+*.go linguist-detectable
+
+*.gif binary
+Cargo.lock linguist-generated
+# eof b8dda748
